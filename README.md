@@ -2,6 +2,11 @@
 
 Bu proje, Firebase Functions kullanarak bir Telegram botu üzerinden iletişim formu gönderme sistemini kurmanıza yardımcı olur. Kullanıcılar, formu doldurduktan sonra veriler Telegram botu aracılığıyla belirlediğiniz bir Telegram grubuna gönderilecektir.
 
+Sahip olduğunuz html iletişim formuna basit bir şekilde bu projeye bağlayabilirsiniz. Örnek iletişim formu için; bu https://github.com/mahmutyukselmert/mahmutyukselmert.github.io projeyi inceleyebilirsiniz.
+
+## Örnek Ekran Görüntüsü
+![Telegram Bot Screenshot](ScreenshotTelegram.png)
+
 ## Telegram Botu Oluşturma ve Konfigürasyon
 
 1. **Telegram Botu Oluşturma**
